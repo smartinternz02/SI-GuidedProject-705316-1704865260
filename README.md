@@ -108,4 +108,4 @@ Create the Project folder which contains files as shown below:
 ![image](https://github.com/smartinternz02/SI-GuidedProject-705316-1704865260/assets/93423367/432cec8c-8dfa-42d4-a5ad-ddfa39c0da91)
 
 ### video
-![Demo](https://github.com/)
+![Demo]([https://github.com/](https://github.com/smartinternz02/SI-GuidedProject-705316-1704865260/blob/main/Recorded_Video/Amazon%20Katalon%20project.mp4)
